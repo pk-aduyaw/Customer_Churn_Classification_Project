@@ -2,21 +2,21 @@
 <h1 align='center'>Reducing Customer Churn Through Machine Learning: A Case Study on Vodafone</h1>
 
 ## Table of Content
-[Project Description](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#project-description)
+[Project Description](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#project-description)
 
-[Installation](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#installation)
+[Installation](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#installation)
 
-[Data Source & Preprocessing](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#data-source--preprocessing)
+[Data Source & Preprocessing](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#data-source--preprocessing)
 
-[Model Building & Evaluation](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#model building--evaluation)
+[Model Building & Evaluation](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#model-building--evaluation)
 
-[Results & Highlights](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#results--highlights)
+[Results & Highlights](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#results--highlights)
 
-[Usage](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#usage)
+[Usage](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#usage)
 
-[Reference](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#reference)
+[Reference](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#reference)
 
-[Author](https://github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#author)
+[Author](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#author)
 
 
 <h2>Project Description</h2>
