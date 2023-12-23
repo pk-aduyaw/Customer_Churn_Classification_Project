@@ -2,21 +2,21 @@
 <h1 align='center'>Reducing Customer Churn Through Machine Learning: A Case Study on Vodafone</h1>
 
 ## Table of Content
-[Project Description](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#project-description)
+[Project Description](#project-description)
 
-[Installation](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#installation)
+[Installation](#installation)
 
-[Data Source & Preprocessing](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#data-source--preprocessing)
+[Data Source & Preprocessing](#data-source--preprocessing)
 
-[Model Building & Evaluation](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#model-building--evaluation)
+[Model Building & Evaluation](#model-building--evaluation)
 
-[Results & Highlights](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#results--highlights)
+[Results & Insights](#results--insights)
 
-[Usage](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#usage)
+[Usage](#usage)
 
-[Reference](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#reference)
+[Reference](#reference)
 
-[Author](github.com/pk-aduyaw/Customer_Churn_Classification_Project/edit/master/README.md#author)
+[Author](#author)
 
 
 <h2>Project Description</h2>
