@@ -105,7 +105,7 @@ The model's performance was assessed using the `f1-score` metric and the `AUC-RO
 
 <h2>Results & Insights</h2>
 
-The GradientBoosting classifier was the best-performing model after the modeling and hyperparameter processes and was used to predict the outcome for the test data.
+The GradientBoosting classifier was the best-performing model after the modeling and hyperparameter processes and was used to predict the outcome for the test data. The number of churned customers predicted by our model was 591 while no-churn customers were 1409. The company must reach out to the 591 customers predicted by the model and put measures in place to prevent them from churning. This is very important since it will help maximize revenue for the subsequent financial year.
 
 <h2>Reference</h2>
 
