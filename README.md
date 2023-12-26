@@ -109,6 +109,10 @@ The model's performance was assessed using the `f1-score` metric and the `AUC-RO
 
 The GradientBoosting classifier was the best-performing model after the modeling and hyperparameter processes and was used to predict the outcome for the test data. The number of churned customers predicted by our model was 591 while no-churn customers were 1409. The company must reach out to the 591 customers predicted by the model and put measures in place to prevent them from churning. This is very important since it will help maximize revenue for the subsequent financial year.
 
+Check out the complete dashboard for this project [here](https://public.tableau.com/app/profile/prince.aduyaw/viz/CustomerChurnAnalysisDashboard_17032319019340/CustomerChurnAnalysisDashboard)
+
+Link to the comprehensive article for this project can be found here [here](https://medium.com/@pkaduyaw/churn-prediction-harnessing-machine-learning-for-customer-retention-64deefca67b6)
+
 <h2>Reference</h2>
 
 [Paddle](https://www.paddle.com/resources/customer-churn)
